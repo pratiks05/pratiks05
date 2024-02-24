@@ -1,4 +1,4 @@
-![logo](https://github.com/iamaparichit05/iamaparichit05/blob/main/coding%20img.gif)
+![logo](https://github.com/iamaparichit05/iamaparichit05/blob/main/bg.avif)
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
