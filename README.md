@@ -1,5 +1,6 @@
+![logo](https://github.com/iamaparichit05/iamaparichit05/blob/main/coding%20img.gif)
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate frontend developer from India, Eager to enhance my skills and contribute to the ever-evolving tech world.</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 
 <img align="right"  src="coding img.gif" width="400" alt="coding">
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@pratikk24445484" target="blank"><img src="https://img.shields.io/twitter/follow/@pratikk24445484?logo=twitter&style=for-the-badge" alt="@pratikk24445484" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, TailwindCSS ,Advanced Javascript**
+- 🌱 I’m currently learning **ReactJS, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://devfolio.co/@Pratikks](https://devfolio.co/@Pratikks)
 
