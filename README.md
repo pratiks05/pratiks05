@@ -1,4 +1,4 @@
-![logo](https://github.com/iamaparichit05/iamaparichit05/blob/main/bg.avif)
+<img src="https://github.com/iamaparichit05/iamaparichit05/blob/main/bg.avif" alt="logo" width="200" height="150">
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
