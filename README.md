@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">A passionate frontend developer from India, Eager to enhance my skills and contribute to the ever-evolving tech world.</h3>
 
 
