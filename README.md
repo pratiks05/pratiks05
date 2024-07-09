@@ -11,7 +11,8 @@
 
 <!--<p align="left"> <a href="https://twitter.com/@pratikk24445484" target="blank"><img src="https://img.shields.io/twitter/follow/@pratikk24445484?logo=twitter&style=for-the-badge" alt="@pratikk24445484" /></a> </p>-->
 
-- 🌱 I’m currently learning **ReactJs** - 👨‍💻 All of my projects are available at
+- 🌱 I’m currently learning **ReactJs**
+- 👨‍💻 All of my projects are available at
 [https://devfolio.co/@Pratikks](https://devfolio.co/@Pratikks) 
 - 📫 How to reach
 me **pratikkumars623@gmail.com**
