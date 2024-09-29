@@ -177,6 +177,15 @@ me **pratikkumars623@gmail.com**
     />
   </a>
 </p>
+---
+## ⚡ Hackathons
+
+- **HackSpire-2024 (September 2024)**  
+  Built **KisaanSetu**, securing 2nd runner-up.
+  
+- **Rebase<01> (April 2024)**  
+  Developed **IndustryXpert**, secured 1st position(Overall winner).
+---
 
 <p>
   <img
