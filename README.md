@@ -209,3 +209,6 @@ me **pratikkumars623@gmail.com**
       alt="pratiks05"
   /></a>
 </p>
+
+## 🏆 Holopin Badges
+[![An image of @iampratik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iampratik05)](https://holopin.io/@iampratik05)
