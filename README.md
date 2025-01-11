@@ -162,7 +162,7 @@ me **pratikkumars623@gmail.com**
 
 
 ## 📊 GitHub Status
-- GitHub Trophies: <br> <br>[![trophy](https://github-profile-trophy.vercel.app/?username=pratiks05&theme=juicyfresh)](https://github.com/Sauhardya27/github-profile-trophy)
+- GitHub Trophies: <br> <br>![](https://github-profile-trophy.vercel.app/?username=pratiks05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 - GitHub Streak: <br> <br> ![GitHub Streak](https://streak-stats.demolab.com?user=pratiks05&theme=shadow-purple&border_radius=4.8)
 <table>
   <tr>
