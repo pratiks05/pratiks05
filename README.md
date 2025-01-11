@@ -63,121 +63,6 @@ me **pratikkumars623@gmail.com**
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    /> </a
-  ><a
-    href="https://flask.palletsprojects.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
 ## 🏆 Hackathons
 
 - **HackSpire-2024 (September 2024)**  
@@ -186,13 +71,110 @@ me **pratikkumars623@gmail.com**
 - **Rebase<01> (April 2024)**  
   Developed **IndustryXpert**, secured **1st position(Overall winner).**
 
+  ## 💬 Languages and Technologies
+<br>
+
+<div align="center">
+	<table style="border: none; text-align: center; width: 100%; margin: 0 auto;">
+		<tr>
+			<td style="padding: 15px;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="50" />
+				<br><b>Bootstrap</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="50" />
+				<br><b>C</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50" />
+				<br><b>C++</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" />
+				<br><b>CSS3</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" />
+				<br><b>HTML5</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" />
+				<br><b>JavaScript</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="50" />
+				<br><b>Postman</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding: 15px;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="50" />
+				<br><b>Python</b>
+			</td>
+			<td style="padding: 15px;">
+      	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" title="Flask" width="50" />
+      	<br><b>Flask</b>
+      </td>
+			<td style="padding: 15px;">
+				<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="50" />
+				<br><b>Git</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" title="SQLite" width="50" />
+				<br><b>SQLite</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="50" />
+				<br><b>React</b>
+			</td>
+			<td style="padding: 15px;">
+				<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" title="Tailwind CSS" width="50" />
+				<br><b>Tailwind CSS</b>
+			</td>
+       <td style="padding: 15px;">
+      	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="50" />
+      	<br><b>Supabase</b>
+      </td>
+		</tr>
+    <tr>
+     
+
+<td style="padding: 15px;">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="50" />
+	<br><b>Redux</b>
+</td>
+
+<td style="padding: 15px;">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="50" />
+	<br><b>Node.js</b>
+</td>
+<td style="padding: 15px;">
+	<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" width="50" />
+	<br><b>MySQL</b>
+</td>
+<td style="padding: 15px;">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" title="R" width="50" />
+	<br><b>R</b>
+</td>
+    </tr>
+	</table>
+</div>
+
+
 ## 📊 GitHub Status
 - GitHub Trophies: <br> <br>[![trophy](https://github-profile-trophy.vercel.app/?username=pratiks05&theme=juicyfresh)](https://github.com/Sauhardya27/github-profile-trophy)
 - GitHub Streak: <br> <br> ![GitHub Streak](https://streak-stats.demolab.com?user=pratiks05&theme=shadow-purple&border_radius=4.8)
-- Most Used Languages: <br> <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pratiks05&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/sauhardya27/github-readme-stats)
-- GitHub Stats: <br> <br> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratiks05&show_icons=true&locale=en&theme=tokyonight)](https://github.com/sauhardya27/github-readme-stats)
-
-
-
-## 🏆 Holopin Badges
-[![An image of @iampratik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iampratik05)](https://holopin.io/@iampratik05)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/pratiks05/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiks05&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pratiks05/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=pratiks05&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
