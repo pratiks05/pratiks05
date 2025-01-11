@@ -186,38 +186,13 @@ me **pratikkumars623@gmail.com**
 - **Rebase<01> (April 2024)**  
   Developed **IndustryXpert**, secured **1st position(Overall winner).**
 
+## 📊 GitHub Status
+- GitHub Trophies: <br> <br>[![trophy](https://github-profile-trophy.vercel.app/?username=pratiks05&theme=juicyfresh)](https://github.com/Sauhardya27/github-profile-trophy)
+- GitHub Streak: <br> <br> ![GitHub Streak](https://streak-stats.demolab.com?user=pratiks05&theme=shadow-purple&border_radius=4.8)
+- Most Used Languages: <br> <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pratiks05&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/sauhardya27/github-readme-stats)
+- GitHub Stats: <br> <br> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratiks05&show_icons=true&locale=en&theme=tokyonight)](https://github.com/sauhardya27/github-readme-stats)
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiks05&show_icons=true&locale=en&layout=compact"
-    alt="pratiks05"
-  />
-</p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=pratiks05&show_icons=true&locale=en"
-    alt="pratiks05"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pratiks05&"
-    alt="pratiks05"
-  />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=pratiks05"
-      alt="pratiks05"
-  /></a>
-</p>
 
 ## 🏆 Holopin Badges
 [![An image of @iampratik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iampratik05)](https://holopin.io/@iampratik05)
